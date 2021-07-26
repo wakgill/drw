@@ -23,3 +23,5 @@ collections:
   research:
     output: true
     permalink: /:year/:month/:day/:path/
+
+paginate:         10
